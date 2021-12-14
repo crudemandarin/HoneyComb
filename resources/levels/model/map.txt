@@ -1,0 +1,9 @@
+//contains map info
+
+stores pertinent info
+
+borders:
+movable/not - dimensions - layer - tangibility (if movable: speed, bounds)
+
+neeples:
+location - layer -
