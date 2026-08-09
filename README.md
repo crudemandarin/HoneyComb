@@ -52,7 +52,7 @@ Levels and assets live under `resources/` (`levels/` for maps, `media/images/` f
 
 ## Demo
 
-[![HoneyComb demo](https://img.youtube.com/vi/DzfVCyHGR-8/0.jpg)](https://www.youtube.com/watch?v=DzfVCyHGR-8)
+Video Demonstration: https://www.youtube.com/watch?v=DzfVCyHGR-8
 
 ## Author
 
