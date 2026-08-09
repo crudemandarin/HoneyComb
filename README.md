@@ -16,6 +16,10 @@
 
 HoneyComb is a self-contained 2D platformer engine written entirely in Java with **no external dependencies or libraries**. Every system — rendering, physics, collision, AI, and animation — is implemented from the ground up on top of Java's standard library (AWT/Swing).
 
+## Demo
+
+Video Demonstration: https://www.youtube.com/watch?v=DzfVCyHGR-8
+
 ## Key Technologies
 
 - **Java** — 100% pure Java, no third-party libraries or frameworks
@@ -49,10 +53,6 @@ src/com/mandarin/
 ```
 
 Levels and assets live under `resources/` (`levels/` for maps, `media/images/` for sprites).
-
-## Demo
-
-Video Demonstration: https://www.youtube.com/watch?v=DzfVCyHGR-8
 
 ## Author
 
